@@ -1,11 +1,11 @@
 {
-  "name": "simple-weather-cli",
-  "version": "0.0.1",
+  "name": "simple-weather-my-first-cli",
+  "version": "0.0.2",
   "description": "CLI for getting weather with no dependencies (pure node.js)",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "weather": "indesx.js"
+    "weather": "index.js"
   },
   "keywords": [
     "cli",
